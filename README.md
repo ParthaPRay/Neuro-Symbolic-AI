@@ -22,6 +22,31 @@ This repo contains neuro-symbolic AI related content for providing robust AI cap
 * PSL/NewPSL, https://www.youtube.com/watch?v=Yl7SvJlFMR4&list=PLpqh-PUKX-i5iZ-l4sYTKn29kSNZNC0Nn&pp=iAQB
 * NSR for Ontological Reasoning, https://www.youtube.com/watch?v=hnW7aeaqsmU&list=PLpqh-PUKX-i4oHPeKpVob3Ty658_oL7AE&pp=iAQB
 * Differentiable ILP, https://www.youtube.com/watch?v=c-zM08kkFvk&list=PLpqh-PUKX-i7URwnkTqpAkSchJHvbxZHB&pp=iAQB
+* Neuro-Symbolic Modeling for NLP: COLING 2022 Tutorial, https://www.youtube.com/watch?v=SJ8E8sT361w&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=6&ab_channel=M.L.Pacheco\
+* The Neurosymbolic AI Panel @AAAI2021, https://www.youtube.com/watch?v=W1L9OK2f8g0&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=9&ab_channel=AIPursuitbyTAIR
+* Tutorial: NEURo-symbolic AI fOr meNtal hEalthcare, https://www.youtube.com/watch?v=ERqJ2E5uK28&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=16&ab_channel=AIInstituteatUofSC-%23AIISC
+* #96 Prof. PEDRO DOMINGOS - There are no infinities, utility functions, neurosymbolic, https://www.youtube.com/watch?v=C9BH3F2c0vQ&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=17&ab_channel=MachineLearningStreetTalk
+* Neural-symbolic artificial intelligence - state-of-the-art, what’s missing, and next steps, https://www.youtube.com/watch?v=56m-Tpp8bGo&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=26&ab_channel=BartGajderowicz
+* [ACS 2022] A Neuro-Symbolic Cognitive System for Intuitive Argumentation - Sarathy, et al., https://www.youtube.com/watch?v=MxYRa4TFczw&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=27&ab_channel=AdvancesinCognitiveSystems
+* DeclarativeAI 2022: "Neuro-Symbolic AI and Decision Rules" by Christian De Saint Marie, https://www.youtube.com/watch?v=6rOo_cgAFNk&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=25&ab_channel=DecisionCAMP
+* ICLR Expo Talk: Neurosymbolic Hybrid AI, https://www.youtube.com/watch?v=cWHHLYDVGEA&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=8&ab_channel=IBMResearch
+* The Neurosymbolic AI Panel @AAAI2021, 
+https://www.youtube.com/watch?v=W1L9OK2f8g0&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=9&ab_channel=AIPursuitbyTAIR\
+* Neurosymbolic Hybrid AI - David D. Cox, https://www.youtube.com/watch?v=AdMceC1R_sg&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=11&ab_channel=InstitutodeComputa%C3%A7%C3%A3o-UNICAMP
+* More-Neural Symbolic Concept Learning | Christopher Manning, 
+https://www.youtube.com/watch?v=m78qYOdK4Tg&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=12&ab_channel=NSCV%2720
+* Logical Neural Networks: Towards Unifying Statistical and Symbolic AI, https://www.youtube.com/watch?v=aSp9zD3afmY&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=14&ab_channel=GeorgiaTechResearch
+* 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36,6 +61,8 @@ This repo contains neuro-symbolic AI related content for providing robust AI cap
 * Understanding the Visual World Through Naturally Supervised Code, https://www.youtube.com/watch?v=73ZgwLVP99c&ab_channel=NeurosymbolicProgrammingforScience
 * Probabilistic Programming Tutorial Part 1, https://www.youtube.com/watch?v=n08kGjReS74&ab_channel=NeurosymbolicProgrammingforScience
 * Probabilistic Programming Tutorial Part 2, https://www.youtube.com/watch?v=O9kBeXn1MbU&ab_channel=NeurosymbolicProgrammingforScience
+* Neurosymbolic Programming - Yisong Yue, https://www.youtube.com/watch?v=16X0RB_YrvE&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&ab_channel=caltech
+
 
 
 
@@ -69,4 +96,5 @@ This repo contains neuro-symbolic AI related content for providing robust AI cap
 * Neurosymbolic Programming for Science, 
   https://www.youtube.com/@NeurosymbolicForScience/videos
 
+* T307 Neurosymbolic AI, https://www.youtube.com/watch?v=16X0RB_YrvE&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1
 
