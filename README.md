@@ -50,11 +50,6 @@ https://www.youtube.com/watch?v=m78qYOdK4Tg&list=PLca8syLx1VhTtIascNAW4_WDdW3G5S
 
 
 
-
-
-
-
-
 # Neurosymbolic Porgram
 
 
@@ -71,6 +66,36 @@ https://www.youtube.com/watch?v=m78qYOdK4Tg&list=PLca8syLx1VhTtIascNAW4_WDdW3G5S
 
 
 
+# Tools
+        
+        https://github.com/topics/neuro-symbolic-ai
+        
+* Neuro-Symbolic AI
+
+  https://ibm.github.io/neuro-symbolic-ai/
+  
+* Awesome Neuro-Symbolic AI
+  
+  https://github.com/traincheckai/awesome-neuro-symbolic-ai
+  
+* Neuro-Symbolic-AI
+  
+  https://github.com/PacktPublishing/Neuro-Symbolic-AI
+  
+* symbolicai
+  https://github.com/ExtensityAI/symbolicai
+  
+* NucleoidAI / Nucleoid
+  
+  https://github.com/NucleoidAI/Nucleoid
+  
+* IBM / LNN
+
+  https://github.com/IBM/LNN
+
+* awesome-neuro-symbolic-ai
+
+  https://github.com/traincheckai/awesome-neuro-symbolic-ai
 
 
 # Neuro Apps
@@ -91,6 +116,11 @@ https://www.youtube.com/watch?v=m78qYOdK4Tg&list=PLca8syLx1VhTtIascNAW4_WDdW3G5S
 
 * Logical Neural Networks, https://www.youtube.com/watch?v=YirGcj9-mlg&list=PLpqh-PUKX-i7LHmPC2tqYeGQFU8IyHKB3&pp=iAQB
 * Logic Tensor Networks, https://www.youtube.com/watch?v=1cVAqYtill8&list=PLpqh-PUKX-i7uqsfj3budSj170GLH321E&pp=iAQB
+
+
+
+
+
 
 
 # Youtube Links
