@@ -97,6 +97,9 @@ https://www.youtube.com/watch?v=m78qYOdK4Tg&list=PLca8syLx1VhTtIascNAW4_WDdW3G5S
 
   https://github.com/traincheckai/awesome-neuro-symbolic-ai
 
+* Language learning
+  
+  https://wiki.opencog.org/w/Language_learning
 
 # Neuro Apps
 
