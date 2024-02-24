@@ -97,9 +97,26 @@ https://www.youtube.com/watch?v=m78qYOdK4Tg&list=PLca8syLx1VhTtIascNAW4_WDdW3G5S
 
   https://github.com/traincheckai/awesome-neuro-symbolic-ai
 
-* Language learning
-  
-  https://wiki.opencog.org/w/Language_learning
+
+
+# Implementation Approaches
+
+* Scallop: a language based on Datalog that supports differentiable logical and relational reasoning. Scallop can be integrated in Python and with a PyTorch learning module.
+
+* Logic Tensor Networks: encode logical formulas as neural networks and simultaneously learn term encodings, term weights, and formula weights.
+
+* DeepProbLog: combines neural networks with the probabilistic reasoning of ProbLog.
+
+  https://en.wikipedia.org/wiki/ProbLog
+
+  https://dtai.cs.kuleuven.be/problog/
+
+* SymbolicAI: a compositional differentiable programming library.
+
+* Explainable Neural Networks (XNNs): combine neural networks with symbolic hypergraphs and trained using a mixture of backpropagation and symbolic learning called induction.
+
+
+
 
 # Neuro Apps
 
