@@ -36,7 +36,12 @@ https://www.youtube.com/watch?v=W1L9OK2f8g0&list=PLca8syLx1VhTtIascNAW4_WDdW3G5S
 * More-Neural Symbolic Concept Learning | Christopher Manning, 
 https://www.youtube.com/watch?v=m78qYOdK4Tg&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=12&ab_channel=NSCV%2720
 * Logical Neural Networks: Towards Unifying Statistical and Symbolic AI, https://www.youtube.com/watch?v=aSp9zD3afmY&list=PLca8syLx1VhTtIascNAW4_WDdW3G5Srw1&index=14&ab_channel=GeorgiaTechResearch
-* 
+* Neuro-Symbolic AI and AllegroGraph, https://www.youtube.com/watch?v=FTrEY8fqMYQ&ab_channel=AllegroGraph
+* Logical Neural Networks: Towards Unifying Statistical and Symbolic AI, https://www.youtube.com/watch?v=aSp9zD3afmY&ab_channel=GeorgiaTechResearch
+* Huge Language Models and Neuro-Symbolic AI - Prof. Yoav Shoham, https://www.youtube.com/watch?v=kSsRV1pSrhs&ab_channel=hayaData
+
+
+
 
 
 
