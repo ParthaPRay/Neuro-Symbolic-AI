@@ -24,6 +24,29 @@ This repo contains neuro-symbolic AI related content for providing robust AI cap
 * Differentiable ILP, https://www.youtube.com/watch?v=c-zM08kkFvk&list=PLpqh-PUKX-i7URwnkTqpAkSchJHvbxZHB&pp=iAQB
 
 
+
+# Neurosymbolic Porgram
+
+
+* Neurosymbolic Program Architecture Search, https://www.youtube.com/watch?v=3YFyJA9tplo
+* Neurosymbolic Program Architecture Search (continued), https://www.youtube.com/watch?v=AnmrPpX8BGA
+* Differentiable Programming via Differentiable Search of Program Structures,https://www.youtube.com/watch?v=XB_5N5HTrI0
+* Jacob Andreas: Towrd Natural Language Supervison, https://www.youtube.com/watch?v=SQP0uqCGVxM
+* An Introduction to Symbolic Regression with PySR and SymbolicRegression.jl, https://www.youtube.com/watch?v=q6tjKXmhiMs&ab_channel=NeurosymbolicProgrammingforScience
+* Understanding the Visual World Through Naturally Supervised Code, https://www.youtube.com/watch?v=73ZgwLVP99c&ab_channel=NeurosymbolicProgrammingforScience
+* Probabilistic Programming Tutorial Part 1, https://www.youtube.com/watch?v=n08kGjReS74&ab_channel=NeurosymbolicProgrammingforScience
+* Probabilistic Programming Tutorial Part 2, https://www.youtube.com/watch?v=O9kBeXn1MbU&ab_channel=NeurosymbolicProgrammingforScience
+
+
+
+
+
+# Neuro Apps
+
+* Construction of mental representations in human planning, https://www.youtube.com/watch?v=LqerQNXNGCg
+* Generating code that actiavte our brains, https://www.youtube.com/watch?v=dxZr-I2rCgQ
+
+
 # ML Basics  
 
    * ML Foundations I: ML Basics, https://www.youtube.com/watch?v=X3UTgIPPoPo&list=PLpqh-PUKX-i6h8Vz4A3QT7h4fV1qik0EB&pp=iAQB
@@ -40,5 +63,10 @@ This repo contains neuro-symbolic AI related content for providing robust AI cap
 
 # Youtube Links
 
-* * Neuro Symbolic, 
+* Neuro Symbolic, 
   https://www.youtube.com/@neurosymbolic
+
+* Neurosymbolic Programming for Science, 
+  https://www.youtube.com/@NeurosymbolicForScience/videos
+
+
