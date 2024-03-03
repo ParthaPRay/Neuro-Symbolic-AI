@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=m78qYOdK4Tg&list=PLca8syLx1VhTtIascNAW4_WDdW3G5S
 * Logical Neural Networks: Towards Unifying Statistical and Symbolic AI, https://www.youtube.com/watch?v=aSp9zD3afmY&ab_channel=GeorgiaTechResearch
 * Huge Language Models and Neuro-Symbolic AI - Prof. Yoav Shoham, https://www.youtube.com/watch?v=kSsRV1pSrhs&ab_channel=hayaData
 * A Path Toward AGI: Neuro-Symbolic Systems, Evolutionary Learning and Knowledge Graphs, https://www.youtube.com/watch?v=ylWu74GTJaw&ab_channel=SuperDataScience%3AML%26AIPodcastwithJonKrohn
-
+* Unified scalable neural population decoding , trends in neuroAI https://youtu.be/DHhmWmOy1Ds?si=sm0DkK9nsfGOf0A9
 
 
 
